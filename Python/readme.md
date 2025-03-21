@@ -23,6 +23,8 @@ In diesem Ordner habe ich **Copilot**, **Deepseek**, **ChatGPT** und **Blackbox 
 > Nennt eure Funktion nicht direkt im Code, sondern lasst den Spieler sie entdecken.  
 >
 > [!IMPORTANT]
+> Text
+> 
 > #### Regeln für den Wettbewerb
 >
 > - Ich werde euren Code **ausführen und bewerten**.  
