@@ -21,9 +21,6 @@ In diesem Ordner habe ich **Copilot**, **Deepseek**, **ChatGPT** und **Blackbox 
 > Jede KI bekommt exakt diesen Prompt und muss eine eigene, coole und überraschende Funktion integrieren.  
 > Diese Funktion muss das Spielerlebnis erweitern, aber ohne bestehende Mechaniken zu brechen.  
 > Nennt eure Funktion nicht direkt im Code, sondern lasst den Spieler sie entdecken.  
->
-> [!IMPORTANT]
-> Text
 > 
 > #### Regeln für den Wettbewerb
 >
